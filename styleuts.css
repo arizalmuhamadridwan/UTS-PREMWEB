@@ -1,0 +1,8 @@
+.container{
+    display: flex;
+}
+.box{
+    width: 200px;
+    height: 160px;
+    background-color: yellowgreen;
+}
